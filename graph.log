@@ -1,0 +1,29 @@
+* a1ba1bc Añadiendo párrafo Lorem Ipsun
+*   9eb8e81 Resolviendo conflicto en estaciones del año y fechas de incio
+|\  
+| * 07f0aeb Agregando las estaciones del año
+* | d7d3b1a Agregando estaciones del año con fechas de inicio
+|/  
+*   b1c0051 Resolviendo conflicto en el main/html en el documentos  index.html
+|\  
+| * ac891a3 Agregando index.js al index.js
+* | dedb3ee Agregando style.css al index.html
+* |   1ea829c Merge branch 'js'
+|\ \  
+| * | 1667cb8 Añadiendo index.js
+* | | 31bafa3 Borrando carpeta css creada por error
+* | | 30b2525 Creando style.css
+| |/  
+|/|   
+* | 17d9429 Creando archivo index.html
+|/  
+* 1c88ae9 Borrando miarchivo.exe de github
+* 63bd619 Corrigiendo error en .gitignore para ignorar los exe
+* bb3ba16 Ignorando archivos .exe
+* 5dd1a97 Ignorando archivos .exe
+* 84a62fd error de modificación al crear check-git-main
+* b0c76db Añadiendo extensión al archivo de licencia
+* 54c57c7 Create license
+* 3e3bcc7 Segundo o tercer commit
+* ad7cc23 Agregando contenido al README.md
+* ed4b056 Primer commit
